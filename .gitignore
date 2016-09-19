@@ -1,3 +1,8 @@
+# working files
+input_file.csv
+bio-export.csv
+output-*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
